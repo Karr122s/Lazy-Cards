@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xb64b51335Aa609bD99c36155Ce6Af8DEa6953b48",
+  "SCAN_LINK": "https://ftmscan.com/address/0xb64b51335Aa609bD99c36155Ce6Af8DEa6953b48",
+  "NETWORK": {
+    "NAME": "Fantom Opera",
+    "SYMBOL": "FTM",
+    "ID": 250
+  },
+  "NFT_NAME": "Lazy Cards",
+  "SYMBOL": "LZCARDS",
+  "MAX_SUPPLY": 25,
+  "WEI_COST": 50000000000000000000,
+  "DISPLAY_COST": 50,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "",
+  "MARKETPLACE_LINK": "",
+  "SHOW_BACKGROUND": false
+}
